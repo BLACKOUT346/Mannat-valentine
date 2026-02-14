@@ -176,7 +176,7 @@
 <body>
     <div class="container">
         <h1 class="name-title" onclick="toggleRaabta()" title="Click me for Raabta 🎵">
-            Ishu / Mummy 💖✨
+            MANNAT ✨
         </h1>
         
         <div class="messages">
